@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.kishorepudipeddi.knighttour" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <splash density="port-hdpi" src="www/img/splash.png" />
+    <splash density="port-ldpi" src="www/img/splash.png" />
+    <splash density="port-mdpi" src="www/img/splash.png" />
+    <splash density="port-xhdpi" src="www/img/splash.png" />
+    <name>KnightTour</name>
+    <description>
+        An Apache Cordova application for the knight's tour.
+    </description>
+    <author email="kpudipeddi@gmail.com" href="http://cordova.io">
+        Kishore Pudipeddi
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="orientation" value="portrait" />
+    <preference name="SplashScreen" value="splash" />
+    <icon src="www/img/icon.png" />
+</widget>
